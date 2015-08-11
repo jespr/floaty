@@ -1,2 +1,2 @@
 # floaty
-The simple responsive javascript photo modal
+The simple responsive javascript photo lightbox
